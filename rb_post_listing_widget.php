@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: RB Post Listing Widget
-Plugin URI: https://github.com/robi06
+Plugin URI: https://github.com/robi06/rb-post-listing-widget
 Description: Displays a list of posts based on filter type
 Author: Md Robiul Islam
 Version: 0.1
